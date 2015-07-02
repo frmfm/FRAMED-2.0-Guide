@@ -29,22 +29,22 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED 2.0 Specification:
 
-24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg) 
-40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg) 
-55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
+1. 24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg) 
+2. 40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg) 
+3. 55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
 
-Intel(R) Atom(TM) CPU Z3370 @ 1.46Ghz (spec)
-Intel HD Graphics (integrated) / Intel HD Gen 7
-Installed Memory (RAM) 2.00Gb
-System Type: 32-bit Windows Embedded 8 Operating System, x64-based processor
-Storage: 64 GB eMMC
-Current Mode: 1080 x 1920 (32 bit) (59Hz)
-Display Memory: 1513 MB
-Speakers (Intel SST Audio Device (WDM))
-Microphone (Intel SST Audio Device (WDM))
-HD Camera 720p
+- Intel(R) Atom(TM) CPU Z3370 @ 1.46Ghz (spec)
+- Intel HD Graphics (integrated) / Intel HD Gen 7
+- Installed Memory (RAM) 2.00Gb
+- System Type: 32-bit Windows Embedded 8 Operating System, x64-based processor
+- Storage: 64 GB eMMC
+- Current Mode: 1080 x 1920 (32 bit) (59Hz)
+- Display Memory: 1513 MB
+- Speakers (Intel SST Audio Device (WDM))
+- Microphone (Intel SST Audio Device (WDM))
+- HD Camera 720p
 
-• All artworks will be played as a Windows applications (.exe) file, and will be displayed at W1080*H1920 pixel in full screen.
+• All artworks will be displayed at W1080*H1920 pixel in full screen.
 
 • Artworks can also optionally include the use of webcam/mic that are embedded on the device.
 
@@ -52,9 +52,17 @@ HD Camera 720p
 
 • FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature. 
 
-## 1-2. Video/Still Artworks
+## 1-2. Still Artworks
 
-For artists who work with the video/still/GIF image media, our system will package and release the submitted video/photo data into a playable application.
+For artists who work with the still/GIF image media, our system will package and release the submitted photo data into a playable artwork.
+
+### ■ Resolution
+
+The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will be stretched. FRAMED also supports landscape format and this option is included during the upload.
+
+## 1-3. Video Artworks
+
+For artists who work with the video media, our system will package and release the submitted video/photo data into a playable application.
 
 ### ■ Resolution
 
@@ -78,9 +86,24 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 • Please encode in H.264, unless otherwise specified.
 • If the artwork requires special or unique playback format, we may additionally request other versions such as uncompressed data.
 
+## 1-4.Application(EXE) Artworks
 
-—
-- Adding your own files
+## 1-5.Flash(SWF) Artworks
+
+## 1-6.OpenFrameworks Artworks
+
+## 1-7.Processing Artworks
+
+## 1-8.VVVV Artworks
+
+## 1-9.Cinder Artworks
+
+## 1-10.Web(Javascript) Artworks
+
+
+
+
+## 2.Artist/Artwork Information (Upload Form)
 
 - Artworks for Sale
 	- Artists guides
