@@ -137,7 +137,9 @@ This section is for artworks developed in Flash. Please review the instructions 
 ### ■ Camera/Mic
 
 • Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
 • The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
 • Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
 
 ## 1-6.OpenFrameworks Artworks
@@ -148,7 +150,9 @@ This section is for artworks developed in Flash. Please review the instructions 
 
 ## 1-9.Cinder Artworks
 
-## 1-10.Web(Javascript) Artworks
+## 1-10.MaxMSP Artworks
+
+## 1-11.Web(Javascript) Artworks
 
 
 
