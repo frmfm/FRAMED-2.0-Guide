@@ -1,5 +1,3 @@
-FRAMED Artist Guide
-
 # 0. Introduction
 
 FRAMED offers a number of different ways to submit your artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art. 
@@ -29,7 +27,22 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED is based on Windows 8 OS. Any work playable on a Windows 8 PC with equal specifications listed below will be able to play on the FRAMED device.
 
-• For FRAMED hardware specs, please review the following http://frm.fm/specification/.
+• FRAMED 2.0 Specification:
+
+24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg) 
+40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg) 
+55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
+
+Intel(R) Atom(TM) CPU Z3370 @ 1.46Ghz (spec)
+Intel HD Graphics (integrated) / Intel HD Gen 7
+Installed Memory (RAM) 2.00Gb
+System Type: 32-bit Windows Embedded 8 Operating System, x64-based processor
+Storage: 64 GB eMMC
+Current Mode: 1080 x 1920 (32 bit) (59Hz)
+Display Memory: 1513 MB
+Speakers (Intel SST Audio Device (WDM))
+Microphone (Intel SST Audio Device (WDM))
+HD Camera 720p
 
 • All artworks will be played as a Windows applications (.exe) file, and will be displayed at W1080*H1920 pixel in full screen.
 
