@@ -77,13 +77,17 @@ The highest frame rate is 30FPS.
 The basic format for playing back the artwork is the “infinity loop.” However, there are other ways to program the artwork for different playback formats if they are packaged as applications (see guides for other frameworks below). For example:
 
 • Randomly selecting sections
+
 • Time/Clock based (content changes according to the time of day)
+
 • Interactive playback (content changes according to environment, i.e. sound and/or human presence)
 
 ### ■ Submission of Artwork
 
 • For video artwork, please submit the data as a Quicktime (.mov).
+
 • Please encode in H.264, unless otherwise specified.
+
 • If the artwork requires special or unique playback format, we may additionally request other versions such as uncompressed data.
 
 ## 1-4.Application(EXE) Artworks
@@ -95,30 +99,39 @@ This section is for artworks developed in Flash. Please review the instructions 
 ### ■ Resolution
 
 • The screen will display at W1080*H1920 pixels resolution. Please be aware of this resolution when developing your artwork.
+
 • Hardware Scaling (scaling through hardware) function is enabled. Use this option to optimize the performance if there is trouble achieving reasonable frame rate.
 
 ### ■ Frame Rate
 
 • Artworks can be played at any specified frame rate.
+
 • Depending on the CPU load, the frame rate may drop. To make the testing process easier, please include a debug option to display the FPS where possible.
 
 ### ■ Hardware Acceleration
 
-Hardware Acceleration in Flash is enabled at default. Functions such as Stage3D that uses GPU power is also available http://www.macromedia.com/support/documentation/en/flashplayer/help/help01.html.
-However, there have been reports of bugs caused when Hardware Acceleration is enabled. If this is the case, Hardware Acceleration can be explicitly turned off.
+• Hardware Acceleration in Flash is enabled at default. Functions such as Stage3D that uses GPU power is also available http://www.macromedia.com/support/documentation/en/flashplayer/help/help01.html.
+
+• However, there have been reports of bugs caused when Hardware Acceleration is enabled. If this is the case, Hardware Acceleration can be explicitly turned off.
 
 ### ■ Continuous Playback Time
 
 • Any artwork application on FRAMED will be exposed to being played at maximum 24 hours for continuous playback (the device is programmed to automatically restart once a day). Please test to make sure that the artwork can be played continuously for 24 hours before submission.
+
 • Please debug and optimize the artwork as much as possible, being careful of memory leakage.
+
 • If we detect any malfunctions after the artwork has been released to the public, the artist will be responsible for modifying/updating the artwork as per the license contract. Please review the details the article 4-1 of the contract.
 
 ### ■ Artwork Submission
 
 • Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+
 	• Projector file (main.exe) for Windows startup
+
 	• All other related files (SWF/text/images/sound)
+
 • Specify file locations as relative paths.
+
 • Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
 
 ### ■ Camera/Mic
