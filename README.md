@@ -56,9 +56,27 @@ After all the information has been received and artwork has been tested, the art
 
 For artists who work with the still/GIF image media, our system will package and release the submitted photo data into a playable artwork.
 
+### ■ Supported File Format
+
+Include JPG, GIF, Animated GIF, PNG, TIFF
+
 ### ■ Resolution
 
 The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will be stretched. FRAMED also supports landscape format and this option is included during the upload.
+
+### ■ Playback Format
+
+The basic format for playing back the GIF artwork is the “infinity loop.” However, there are other ways to program the artwork for different playback formats if they are packaged as applications (see guides for other frameworks below). For example:
+
+• Randomly selecting sections
+
+• Time/Clock based (content changes according to the time of day)
+
+• Interactive playback (content changes according to environment, i.e. sound and/or human presence)
+
+### ■ Artwork Submission
+
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders).
 
 ## 1-3. Video Artworks
 
