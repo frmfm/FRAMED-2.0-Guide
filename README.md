@@ -110,6 +110,31 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 ## 1-4.Application(EXE) Artworks
 
+### ■ Resolution
+
+• The screen will display at W1080*H1920 pixels resolution. Please be aware of this resolution when developing your artwork.
+
+### ■ Continuous Playback Time
+
+• Any artwork application on FRAMED will be exposed to being played at maximum 24 hours for continuous playback (the device is programmed to automatically restart once a day). Please test to make sure that the artwork can be played continuously for 24 hours before submission.
+
+• Please debug and optimize the artwork as much as possible, being careful of memory leakage.
+
+• If we detect any malfunctions after the artwork has been released to the public, the artist will be responsible for modifying/updating the artwork as per the license contract. Please review the details the article 4-1 of the contract.
+
+### ■ Artwork Submission
+
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+
+- Projector file (main.exe) for Windows startup
+
+- All other related files (SWF/text/images/sound)
+
+• Specify file locations as relative paths.
+
+• Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
+
+
 ## 1-5.Flash(SWF) Artworks
 
 This section is for artworks developed in Flash. Please review the instructions below, and submit your work in the specified format. Our development team will review and test your artwork.
@@ -144,9 +169,9 @@ This section is for artworks developed in Flash. Please review the instructions 
 
 • Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
 
-	• Projector file (main.exe) for Windows startup
+- Projector file (main.exe) for Windows startup
 
-	• All other related files (SWF/text/images/sound)
+- All other related files (SWF/text/images/sound)
 
 • Specify file locations as relative paths.
 
@@ -162,9 +187,131 @@ This section is for artworks developed in Flash. Please review the instructions 
 
 ## 1-6.OpenFrameworks Artworks
 
+### ■ Resolution
+
+The screen will display at W1080*H1920 pixels resolution. Please be aware of this resolution when developing your artwork. Currently, display scaling is not supported.
+
+
+### ■ Frame Rate
+
+• Artworks can be played at any specified frame rate.
+
+• Depending on the CPU load, the frame rate may drop. To make the testing process easier, please include a debug option to display the FPS where possible.
+
+
+### ■ Camera/Mic
+
+• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
+• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
+
+### ■ Continuous Playback Time
+
+• Any artwork application on FRAMED will be exposed to being played at maximum 24 hours for continuous playback (the device is programmed to automatically restart once a day). Please test to make sure that the artwork can be played continuously for 24 hours before submission.
+
+• Please debug and optimize the artwork as much as possible, being careful of memory leakage.
+
+• If we detect any malfunctions after the artwork has been released to the public, the artist will be responsible for modifying/updating the artwork as per the license contract. Please review the details the article 4-1 of the contract.
+
+### ■ Artwork Submission
+
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+
+- Main file (main.exe) for Windows
+
+- All other related files (/text/images/sound)
+
+• Specify file locations as relative paths.
+
+• Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
+
+### ■ Areas to Adjust for FRAMED
+
+• Turn off console window
+
+``#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"")``
+
+• Resetting program path
+We’ve noticed instances where the current directory is changed when the program is called from the FRAMED Shell. Please include the following code inside init main() of main.cpp, so that the program resources such as images and movie files can be accessed.
+
+``char cdir[MAX_PATH], drive[MAX_PATH],dir  [MAX_PATH];
+GetModuleFileNameA( NULL, cdir, MAX_PATH );
+_splitpath(cdir,drive,dir,NULL,NULL);
+sprintf_s(cdir,"%s%s",drive,dir);
+SetCurrentDirectoryA(cdir);``
+
+• FRAMED FullScreen settings
+
+Windows default display is 16:9 horizontal (landscape), which FRAMED rotates to display as vertical (portrait) mode. As such, some adjustments are necessary to display OpenFrameworks at fullscreen. Please include the following code inside init main() in main.cpp.
+
+Make sure that any window control functions like SetFullscreen(), ofSetWindowShape() (including Windows API) are not called from the application.
+
+``ofSetupOpenGL(&window, 1080,1920, OF_WINDOW);
+HWND hwnd = WindowFromDC(wglGetCurrentDC());
+ChangeDisplaySettings(NULL, 0);
+SetWindowLong(hwnd, GWL_STYLE,WS_VISIBLE ^ WS_OVERLAPPEDWINDOW ^WS_TILEDWINDOW);
+SetWindowPos(hwnd, HWND_TOPMOST,0,1,1080,1920,SWP_NOZORDER);
+SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|SWP_NOZORDER);``
+
+• * We are currently not aware of any other special requirements, however we will continue to let release updates where possible.
+
 ## 1-7.Processing Artworks
 
+### ■ Frame Rate
+
+• Artworks can be played at any specified frame rate.
+
+• Depending on the CPU load, the frame rate may drop. To make the testing process easier, please include a debug option to display the FPS where possible.
+
+### ■ Artwork Submission
+
+• Resolution of your artwork should be set as size(1080,1920);
+
+• Include [noCursor()](https://processing.org/reference/noCursor_.html) to hide cursor in your application
+
+• Export your sketch from Processing as a 32-bit Windows Application.
+
+• Enable full screen
+
+• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related sketch files)
+
+### ■ Camera/Mic
+
+• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
+• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
+• Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
+
+
 ## 1-8.VVVV Artworks
+
+### ■ Download the Templates
+
+• Templates in either DX9 or DX11 are available from [VVVV website](http://vvvv.org/contribution/framed-template). Choose between either DX9 or DX11.
+
+### ■ Packaging the Artworks
+
+• The root patch started by the Framed is: main.v4p
+
+• Target: vvvv45_beta33.7_x86 + addonpack + DX11 pack
+
+The Framed will run your Renderer fullscreen by using the "/fullscreen 1" commandline parameter. The Framed (Devices) module (part of this template) takes care of this.
+
+When creating your patches please keep the rather low hardware specifications of the device in mind. The demo coming with this template runs at ~60fps. Note, that Antialiasing of the Renderer is deliberately set to the minimum to gain such performance.
+
+### ■ Artwork Submission
+
+• Please submit files in one folder .zip file with a "main.v4p" in the root (no subfolders except for other related project files)
+
+### ■ Camera/Mic
+
+• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
+• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
+• Access to the camera/mic from vvvv is enabled at default, and doesn’t require additional settings.
 
 ## 1-9.Cinder Artworks
 
