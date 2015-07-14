@@ -1,3 +1,27 @@
+# Contents
+
+
+0. Introduction
+1. [Artwork Development](#1-Artwork-Development)
+	- 1-1. FRAMED Summary
+	- 1-2. Still Artworks
+	- 1-3. Video Artworks
+	- 1-4. Application(EXE) Artworks	
+	- 1-5. Flash(SWF) Artworks
+	- 1-6. OpenFrameworks Artworks
+	- 1-7. Processing Artworks
+	- 1-8. VVVV Artworks
+	- 1-9. Cinder Artworks
+	- 1-10. MaxMSP Artworks
+	- 1-11. Web(Javascript) Artworks
+2. [Artist/Artwork Information (Upload Form)]()
+3. [FRAMED 2.0 Feed for Users](http://)
+4. [Artwork License Contract/Determining Price & Edition Copies](http://)
+5. [Release/Sales](http://)
+6. [Guide for Organisations](http://)
+7. [Guide to Exhibiting with FRAMED](http://)
+	
+
 # 0. Introduction
 
 FRAMED offers a number of different ways to submit your artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art. 
@@ -108,7 +132,7 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 • If the artwork requires special or unique playback format, we may additionally request other versions such as uncompressed data.
 
-## 1-4.Application(EXE) Artworks
+## 1-4. Application(EXE) Artworks
 
 ### ■ Resolution
 
@@ -135,7 +159,7 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 • Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
 
 
-## 1-5.Flash(SWF) Artworks
+## 1-5. Flash(SWF) Artworks
 
 This section is for artworks developed in Flash. Please review the instructions below, and submit your work in the specified format. Our development team will review and test your artwork.
 
@@ -185,7 +209,7 @@ This section is for artworks developed in Flash. Please review the instructions 
 
 • Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
 
-## 1-6.OpenFrameworks Artworks
+## 1-6. OpenFrameworks Artworks
 
 ### ■ Resolution
 
@@ -256,7 +280,7 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 
 • * We are currently not aware of any other special requirements, however we will continue to let release updates where possible.
 
-## 1-7.Processing Artworks
+## 1-7. Processing Artworks
 
 ### ■ Frame Rate
 
@@ -285,7 +309,7 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 • Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
 
 
-## 1-8.VVVV Artworks
+## 1-8. VVVV Artworks
 
 ### ■ Download the Templates
 
@@ -315,25 +339,48 @@ When creating your patches please keep the rather low hardware specifications of
 
 ## 1-9.Cinder Artworks
 
+x
+
 ## 1-10.MaxMSP Artworks
+
+x
 
 ## 1-11.Web(Javascript) Artworks
 
+x
 
 
 
-## 2.Artist/Artwork Information (Upload Form)
 
-- Artworks for Sale
-	- Artists guides
-	- Gallery guides
-	- Organisation guides
-	- Developer guides
-	- Exhibition guide
-	- Specification
-	- Licence agreement
+# 2. Artist/Artwork Information (Upload Form)
 
-- Artworks on the Web
-	- Feed
-	- File formats
-	- URLS
+All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLERY, as well as through our official website. Please prepare and submit below information regarding the Artwork and the Artist. Please write in your own language; we will provide the necessary English/Japanese translation.
+
+# 3. FRAMED 2.0 Feed for Users
+
+# 4. Artwork License Contract/Determining Price & Edition Copies
+
+• Before releasing and selling the artwork on FRAMED, Artwork License Contract will need to be read and signed by both parties. Please read the contract below thoroughly.
+
+License Contract (JP)　License Contract (EN)
+
+
+### ■ DRM/Edition/Artwork Price
+
+• To make sure that the artwork retains its value, FRAMED uses DRM to protect each work. Artwork data will be encoded and stored on the FRAMED device itself. Also, information of the artwork owner will be registered on the database as collateral to secure ownership.
+
+• As per above, we use the concept of ‘editions (issued copies of the artwork)’ for each artwork released on FRAMED. Artists can, with discussion and consultation with our company, determine his/her own artwork price and editions.
+
+• However, at least during the beginning phases, we aim to create a healthy ecosystem for our FRAMED artwork market where “high quality content is released in limited numbers (editions) for a privileged price, compared to the current standards of digital content.” For this reason, we currently hold a benchmark of “1 artwork: 31,500 yen x 100 editions.” An artist should take this into account when thinking about his/her own artwork pricing/editions.
+
+# 5. Release/Sales
+
+As soon as the artwork is uploaded, the artwork will be tested and if all checked OK it listed and sold through the FRAMED GALLERY. Information will also be released through the FRAMED Website and News Release.
+
+When an artwork is sold, the artist will be notified through an email sent to the registered email address. Furthermore, up to date sales information and status is available for viewing at any time on our website. As per the license contract, proceeds will be distributed every 3 months.
+
+Further details will follow shortly, so please be sure to check back for updates.
+
+# 6. Guide for Organisations
+
+# 7. Guide to Exhibiting with FRAMED
