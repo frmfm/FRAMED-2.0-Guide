@@ -134,6 +134,8 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 ## 1-4. Application(EXE) Artworks
 
+This category is related to all other than the frameworks listed below. These include Windows specific applications such as those made using Unity, Unreal Engine, etc.
+
 ### ■ Resolution
 
 • The screen will display at W1080*H1920 pixels resolution. Please be aware of this resolution when developing your artwork.
@@ -339,17 +341,15 @@ When creating your patches please keep the rather low hardware specifications of
 
 ## 1-9.Cinder Artworks
 
-x
+• More information to be added soon
 
 ## 1-10.MaxMSP Artworks
 
-x
+• More information to be added soon
 
 ## 1-11.Web(Javascript) Artworks
 
-x
-
-
+• More information to be added soon
 
 
 # 2. Artist/Artwork Information (Upload Form)
@@ -383,4 +383,8 @@ Further details will follow shortly, so please be sure to check back for updates
 
 # 6. Guide for Organisations
 
+• More information to be added soon
+
 # 7. Guide to Exhibiting with FRAMED
+
+• More information to be added soon
