@@ -126,7 +126,7 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 ### ■ Submission of Artwork
 
-• For video artwork, please submit the data as a Quicktime (.mov).
+• For video artwork, please submit the data as a Quicktime (.mov) in one folder .zip file (in the root, no subfolders)
 
 • Please encode in H.264, unless otherwise specified.
 
@@ -290,6 +290,14 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 
 • Depending on the CPU load, the frame rate may drop. To make the testing process easier, please include a debug option to display the FPS where possible.
 
+### ■ Camera/Mic
+
+• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
+• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
+• Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
+
 ### ■ Artwork Submission
 
 • Resolution of your artwork should be set as size(1080,1920);
@@ -301,14 +309,6 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 • Enable full screen
 
 • Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related sketch files)
-
-### ■ Camera/Mic
-
-• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
-
-• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
-
-• Access to the camera/mic from the flash player is enabled at default, and doesn’t require additional settings.
 
 
 ## 1-8. VVVV Artworks
@@ -345,7 +345,33 @@ When creating your patches please keep the rather low hardware specifications of
 
 ## 1-10.MaxMSP Artworks
 
-• More information to be added soon
+MAX 7.0 and above is supported since it eliminates need for seperate runtime and artworks can be packaged as standalone .EXE files.
+
+### ■ Frame Rate
+
+• Artworks can be played at any specified frame rate.
+
+• Depending on the CPU load, the frame rate may drop. To make the testing process easier, please include a debug option to display the FPS where possible by using keyboard commands.
+
+### ■ Camera/Mic
+
+• Access to the internal webcam and mic embedded at the bottom of the screen is enabled at default. The maximum FPS/Resolution for the camera is: 30FPS/W1280*H720 pixels.
+
+• The default format for the camera in the PC is read in horizontal, landscape mode. As such, when the work is displayed at fullscreen with the same aspect ratio, sides of the image may be trimmed.
+
+• Access to the camera/mic is enabled at default, and doesn’t require additional settings.
+
+### ■ Artwork Submission
+
+• Resolution of your artwork should be set as size(1080,1920);
+
+• FRAMED supports MAX 7.0 and above since it eliminates the need for a separate Max runtime. Any Max patch can be exported as a ’standalone’ application, which integrates the runtime and other necessary components. 
+
+• Enable full screen
+
+• Launch directly with render screen, hiding the Max patch window.
+
+• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related files)
 
 ## 1-11.Web(Javascript) Artworks
 
