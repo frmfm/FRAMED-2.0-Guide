@@ -3,17 +3,17 @@
 
 0. Introduction
 1. [Artwork Development](#1-artwork-development)
-	- 1-1. FRAMED Summary
-	- 1-2. Still Artworks
-	- 1-3. Video Artworks
-	- 1-4. Application(EXE) Artworks	
-	- 1-5. Flash(SWF) Artworks
-	- 1-6. OpenFrameworks Artworks
-	- 1-7. Processing Artworks
-	- 1-8. VVVV Artworks
-	- 1-9. Cinder Artworks
-	- 1-10. MaxMSP Artworks
-	- 1-11. Web(Javascript) Artworks
+	- 1-1. [FRAMED Summary](#1-1-framed-summary)
+	- 1-2. [Still Artworks](#1-2-still-artworks)
+	- 1-3. [Video Artworks](#1-3-video-artworks)
+	- 1-4. [Application(EXE) Artworks](#1-4-applicationexe-artworks)
+	- 1-5. [Flash(SWF) Artworks](#1-5-flashswf-artworks)
+	- 1-6. [OpenFrameworks Artworks](#1-6-openframeworks-artworks)
+	- 1-7. [Processing Artworks](#1-7-processing-artworks)
+	- 1-8. [VVVV Artworks](#1-8-vvvv-artworks)
+	- 1-9. [Cinder Artworks](#1-9cinder-artworks)
+	- 1-10. [MaxMSP Artworks](#1-10maxmsp-artworks)
+	- 1-11. [Web(Javascript) Artworks](#1-11webjavascript-artworks)
 2. [Artist/Artwork Information (Upload Form)](#2-artistartwork-information-upload-form)
 3. [FRAMED 2.0 Feed for Users](#3-framed-20-feed-for-users)
 4. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
