@@ -34,9 +34,21 @@ Artist will be responsible for the actual development of the artwork. The artwor
 
 ## Step 2. Artwork/Artist Information
 
-When artwork testing/debug/optimization has been completed, your artwork will be submitted to the platform and you will receive a notification stating that your artwork is now available on FRAMED.
+When artwork testing/debug/optimization has been completed, your artwork will be submitted to the public and you will receive a notification stating that your artwork is now available on FRAMED.
 
-## Step 3. Artwork License Contract/Pricing & Editions
+
+## Step 3. Information about your Artwork.
+
+Please describe your artwork not only how it was inspired but also how it works. Whether it requires any interaction, uses camera, microphone, etc. 
+
+When preparing the video, we made some graphic material available that will help.
+
+1. [FRAMED logos](https://www.dropbox.com/s/nys55hixgr6uuyx/FRAMED%20Logos.ai?dl=0)
+2. [Image of FRAMED to fit your artwork video into](https://www.dropbox.com/s/7kwue6f1rvllx8h/framed_bg.jpg?dl=0)
+3. [Reflection image positioned over your artwork](https://www.dropbox.com/s/j0u9nzp8hbcdmh7/framed_bg_s_mirror.png?dl=0)
+
+
+## Step 4. Artwork License Contract/Pricing & Editions
 
 Before the artwork is listed and released to the public, the Artwork licensing contract will be signed. Also, price of the artwork and the number of release issues/editions will be determined. These details are set by the artist during the upload process.
 
@@ -412,5 +424,7 @@ Further details will follow shortly, so please be sure to check back for updates
 • More information to be added soon
 
 # 7. Guide to Exhibiting with FRAMED
+
+FRAMED devices, offered in 24”, 40” and 55” sizes make a great exhibition device since they are self-contained, all-in-one PCs and require not additional hardware to display artworks. With integrated camera and microphone, they allow interaction with visitors and the online platform can serve conveniently to deploy artworks straight to the exhibition space. 
 
 • More information to be added soon
