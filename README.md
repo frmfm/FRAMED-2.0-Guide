@@ -47,6 +47,8 @@ When preparing the video, we made some graphic material available that will help
 2. [Image of FRAMED to fit your artwork video into](https://www.dropbox.com/s/7kwue6f1rvllx8h/framed_bg.jpg?dl=0)
 3. [Reflection image positioned over your artwork](https://www.dropbox.com/s/j0u9nzp8hbcdmh7/framed_bg_s_mirror.png?dl=0)
 
+For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
+
 
 ## Step 4. Artwork License Contract/Pricing & Editions
 
