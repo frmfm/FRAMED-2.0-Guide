@@ -68,7 +68,7 @@ After all the information has been received and artwork has been tested, the art
 • FRAMED 2.0 Specification:
 
 1. 24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg) 
-2. 40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg) 
+2. 40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg)
 3. 55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
 
 - Intel(R) Atom(TM) CPU Z3370 @ 1.46Ghz (spec)
