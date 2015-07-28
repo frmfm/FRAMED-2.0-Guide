@@ -114,7 +114,7 @@ The basic format for playing back the GIF artwork is the “infinity loop.” Ho
 
 ### ■ Artwork Submission
 
-• Please submit all files listed below in one folder .zip file (in the root, no subfolders).
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 ## 1-3. Video Artworks
 
@@ -130,7 +130,7 @@ The highest frame rate is 30FPS.
 
 ### ■ Playback Format
 
-The basic format for playing back the artwork is the “infinity loop.” However, there are other ways to program the artwork for different playback formats if they are packaged as applications (see guides for other frameworks below). For example:
+The basic format for playing back the artwork is the “infinity loop.” However, there are other ways to ‘program’ the artwork for different playback formats if they are packaged as applications (see guides for other frameworks below). For example:
 
 • Randomly selecting sections
 
@@ -140,7 +140,7 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 ### ■ Submission of Artwork
 
-• For video artwork, please submit the data as a Quicktime (.mov) in one folder .zip file (in the root, no subfolders)
+• For video artwork, please submit the data as a Quicktime (.mov) in one folder .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 • Please encode in H.264, unless otherwise specified.
 
@@ -164,7 +164,7 @@ This category is related to all other than the frameworks listed below. These in
 
 ### ■ Artwork Submission
 
-• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be):
 
 - Projector file (main.exe) for Windows startup
 
@@ -207,7 +207,7 @@ This section is for artworks developed in Flash. Please review the instructions 
 
 ### ■ Artwork Submission
 
-• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be):
 
 - Projector file (main.exe) for Windows startup
 
@@ -256,7 +256,7 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 ### ■ Artwork Submission
 
-• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files):
+• Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be):
 
 - Main file (main.exe) for Windows
 
@@ -322,7 +322,7 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 
 • Enable full screen
 
-• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related sketch files)
+• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related sketch files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
 
 ## 1-8. VVVV Artworks
@@ -343,7 +343,7 @@ When creating your patches please keep the rather low hardware specifications of
 
 ### ■ Artwork Submission
 
-• Please submit files in one folder .zip file with a "main.v4p" in the root (no subfolders except for other related project files)
+• Please submit files in one folder .zip file with a "main.v4p" in the root (no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 ### ■ Camera/Mic
 
@@ -385,7 +385,7 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 • Launch directly with render screen, hiding the Max patch window.
 
-• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related files)
+• Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 ## 1-11.Web(Javascript) Artworks
 
