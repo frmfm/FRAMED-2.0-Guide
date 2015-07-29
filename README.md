@@ -54,7 +54,15 @@ For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDoffic
 
 Before the artwork is listed and released to the public, the Artwork licensing contract will be signed. Also, price of the artwork and the number of release issues/editions will be determined. These details are set by the artist during the upload process.
 
-## Step 4. Artwork Launch/Sale Begins
+## Step 5. Artwork Submission
+
+It is important that before you upload your files they are correctly stored and named in the .zip. FRAMED platform requires all launch/main files to be in the root of the zip. Please read below about how to correctly name your files for each framework/file format. 
+
+See this video for correctly zipping your files.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
+
+## Step 6. Artwork Launch/Sale Begins
 
 After all the information has been received and artwork has been tested, the artwork will be released to the public to begin sales on the FRAMED GALLERY. Updates will be released through the FRAMED Website and News Release. Artist will be able to check the current sales status through our website. As per the license contract, proceeds of the artwork sales will be distributed every three months.
 
@@ -118,7 +126,7 @@ The basic format for playing back the GIF artwork is the “infinity loop.” Ho
 
 ## 1-3. Video Artworks
 
-For artists who work with the video media, our system will package and release the submitted video/photo data into a playable application.
+For artists who work with the video media, our system will package and release the submitted video/photo data into a playable application. Please **note the file name** otherwise your movie won't be able to be played.
 
 ### ■ Resolution
 
@@ -141,6 +149,8 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 ### ■ Submission of Artwork
 
 • For video artwork, please submit the data as a Quicktime (.mov) in one folder .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
+
+• <span style="color:red;">**Your movie file must be named "main.mov"**</span>
 
 • Please encode in H.264, unless otherwise specified.
 
