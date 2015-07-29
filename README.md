@@ -58,7 +58,7 @@ Before the artwork is listed and released to the public, the Artwork licensing c
 
 It is important that before you upload your files they are correctly stored and named in the .zip. FRAMED platform requires all launch/main files to be in the root of the zip. Please read below about how to correctly name your files for each framework/file format. 
 
-See this video for correctly zipping your files.
+[See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
 
