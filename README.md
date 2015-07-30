@@ -65,7 +65,7 @@ Submission form supported artwork file formats:
 - **EXE** - self contained .exe apps, Flash, openFrameworks, MaxMSP
 - **VVVV** - VVVV framework for creative code
 - **VIDEO** - Video files
-- **Processing** - Processing.org made 32bit .EXE application
+- **PROCESSING** - Processing.org made 32bit .EXE application
 - **IMAGE** - coming soon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
