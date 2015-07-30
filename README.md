@@ -176,7 +176,7 @@ This category is related to all other than the frameworks listed below. These in
 
 • Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be):
 
-- Projector file (main.exe) for Windows startup
+- Main file must be named "main.exe".
 
 - All other related files (SWF/text/images/sound)
 
@@ -268,7 +268,7 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 • Please submit all files listed below in one folder .zip file (in the root, no subfolders except for other related project files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be):
 
-- Main file (main.exe) for Windows
+- Main file must be named "main.exe".
 
 - All other related files (/text/images/sound)
 
@@ -390,6 +390,8 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 • Resolution of your artwork should be set as size(1080,1920);
 
 • FRAMED supports MAX 7.0 and above since it eliminates the need for a separate Max runtime. Any Max patch can be exported as a ’standalone’ application, which integrates the runtime and other necessary components. 
+
+• Main file must be named "main.exe".
 
 • Enable full screen
 
