@@ -62,10 +62,10 @@ It is important that before you upload your files they are correctly stored and 
 
 Submission form artwork file formats:
 
-**EXE** - self contained .exe apps, Flash, openFrameworks
-**VVVV** - VVVV framework for creative code
-**VIDEO** - Video files
-**Processing** - Processing.org made 32bit .EXE application
+- **EXE** - self contained .exe apps, Flash, openFrameworks
+- **VVVV** - VVVV framework for creative code
+- **VIDEO** - Video files
+- **Processing** - Processing.org made 32bit .EXE application
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
 
