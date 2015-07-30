@@ -60,6 +60,13 @@ It is important that before you upload your files they are correctly stored and 
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
+Submission form artwork file formats:
+
+**EXE** - self contained .exe apps, Flash, openFrameworks
+**VVVV** - VVVV framework for creative code
+**VIDEO** - Video files
+**Processing** - Processing.org made 32bit .EXE application
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
 
 ## Step 6. Artwork Launch/Sale Begins
