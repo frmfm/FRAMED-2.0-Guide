@@ -64,7 +64,7 @@ It is important that before you upload your files they are correctly stored and 
 
 Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
 
-If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
+If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account on Vimeo is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
 
 When preparing the video, we made some graphic material available that will help.
 
@@ -74,6 +74,9 @@ When preparing the video, we made some graphic material available that will help
 
 For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
 
+### ■ Saving Draft
+
+Drafts are for testing artworks you have uploaded. All artworks remain drafts until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish. 
 
 ## Step 6. Artwork Launch/Sale Begins
 
