@@ -52,17 +52,15 @@ It is important that before you upload your files they are correctly stored and 
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
-1. Submission form supported artwork file formats:
+### ■ Supported artwork file formats
 
 - **EXE** - self contained .exe apps, Flash, openFrameworks, MaxMSP
 - **VVVV** - VVVV framework for creative code
 - **VIDEO** - Video files
 - **PROCESSING** - Processing.org made 32bit .EXE application
-- **IMAGE** - coming soon
+- **IMAGE** - coming soon 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
-
-2. Video Preview
+### ■ Video Preview
 
 Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
 
