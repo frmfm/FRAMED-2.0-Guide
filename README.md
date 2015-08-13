@@ -41,14 +41,6 @@ When artwork testing/debug/optimization has been completed, your artwork will be
 
 Please describe your artwork not only how it was inspired but also how it works. Whether it requires any interaction, uses camera, microphone, etc. 
 
-When preparing the video, we made some graphic material available that will help.
-
-1. [FRAMED logos](https://www.dropbox.com/s/nys55hixgr6uuyx/FRAMED%20Logos.ai?dl=0)
-2. [PSD Template for your video](https://www.dropbox.com/s/3bsolt9jsowi646/framed_video_template.psd?dl=0)
-3. [Reflection image positioned over your artwork in the video](https://www.dropbox.com/s/vegtxututr2ajwo/framed_video_template_reflection.png?dl=0)
-
-For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
-
 
 ## Step 4. Artwork License Contract/Pricing & Editions
 
@@ -60,7 +52,7 @@ It is important that before you upload your files they are correctly stored and 
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
-Submission form supported artwork file formats:
+1. Submission form supported artwork file formats:
 
 - **EXE** - self contained .exe apps, Flash, openFrameworks, MaxMSP
 - **VVVV** - VVVV framework for creative code
@@ -69,6 +61,21 @@ Submission form supported artwork file formats:
 - **IMAGE** - coming soon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
+
+2. Video Preview
+
+Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
+
+If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
+
+When preparing the video, we made some graphic material available that will help.
+
+1. [FRAMED logos](https://www.dropbox.com/s/nys55hixgr6uuyx/FRAMED%20Logos.ai?dl=0)
+2. [PSD Template for your video](https://www.dropbox.com/s/3bsolt9jsowi646/framed_video_template.psd?dl=0)
+3. [Reflection image positioned over your artwork in the video](https://www.dropbox.com/s/vegtxututr2ajwo/framed_video_template_reflection.png?dl=0)
+
+For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
+
 
 ## Step 6. Artwork Launch/Sale Begins
 
