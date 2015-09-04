@@ -451,10 +451,14 @@ Further details will follow shortly, so please be sure to check back for updates
 
 # 6. Guide for Organisations
 
+As an organisation you are able to upload artworks on behalf of your artists.
+
 • More information to be added soon
 
 # 7. Guide to Exhibiting with FRAMED
 
 FRAMED devices, offered in 24”, 40” and 55” sizes make a great exhibition device since they are self-contained, all-in-one PCs and require not additional hardware to display artworks. With integrated camera and microphone, they allow interaction with visitors and the online platform can serve conveniently to deploy artworks straight to the exhibition space. 
+
+For public and semi-public Wi-Fi networks we advise using a dedicated WiFI network for FRAMED (or bridge) to ensure its continuous and reliable connection to the internet.
 
 • More information to be added soon
