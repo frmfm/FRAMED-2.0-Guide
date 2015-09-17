@@ -142,7 +142,7 @@ For artists who work with the video media, our system will package and release t
 
 ### ■ Resolution
 
-The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will scaled to fit. FRAMED also supports landscape videos and this option is included during the upload.
+The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will scaled to fit. FRAMED also supports landscape videos and this option is included during the upload. The data rate that works succesfully is around 100Mbit/s. Please note we had issues with artworks that were over 150Mbit/s.
 
 ### ■ Frame Rate
 
