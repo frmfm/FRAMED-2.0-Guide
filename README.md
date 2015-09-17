@@ -4,7 +4,7 @@
 0. Introduction
 1. [Artwork Development](#1-artwork-development)
 	- 1-1. [FRAMED Summary](#1-1-framed-summary)
-	- 1-2. [Still Artworks](#1-2-still-artworks)
+	- 1-2. [GIF Artworks](#1-2-gif-artworks)
 	- 1-3. [Video Artworks](#1-3-video-artworks)
 	- 1-4. [Application(EXE) Artworks](#1-4-applicationexe-artworks)
 	- 1-5. [Flash(SWF) Artworks](#1-5-flashswf-artworks)
@@ -58,7 +58,7 @@ It is important that before you upload your files they are correctly stored and 
 - **VVVV** - VVVV framework for creative code
 - **VIDEO** - Video files
 - **PROCESSING** - Processing.org made 32bit .EXE application
-- **IMAGE** - coming soon 
+- **GIF** - Animated GIFs
 
 ### ■ Video Preview
 
@@ -114,31 +114,27 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature. 
 
-## 1-2. Still Artworks
+## 1-2. GIF Artworks
 
-For artists who work with the still/GIF image media, our system will package and release the submitted photo data into a playable artwork.
+For artists who work with GIF media:
 
 ### ■ Supported File Format
 
-Include JPG, GIF, Animated GIF, PNG, TIFF
+GIF, Animated GIF
 
 ### ■ Resolution
 
-The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will be stretched. FRAMED also supports landscape format and this option is included during the upload.
+The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will be scaled to fit.
 
 ### ■ Playback Format
 
-The basic format for playing back the GIF artwork is the “infinity loop.” However, there are other ways to program the artwork for different playback formats if they are packaged as applications (see guides for other frameworks below). For example:
-
-• Randomly selecting sections
-
-• Time/Clock based (content changes according to the time of day)
-
-• Interactive playback (content changes according to environment, i.e. sound and/or human presence)
+The basic format for playing back the GIF artwork is the “infinity loop.” 
 
 ### ■ Artwork Submission
 
-• Please submit all files listed below in one folder .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
+• Please submit GIF file as .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
+
+• Your artwork can be named anything.gif
 
 ## 1-3. Video Artworks
 
@@ -146,7 +142,7 @@ For artists who work with the video media, our system will package and release t
 
 ### ■ Resolution
 
-The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will be stretched. FRAMED also supports landscape videos and this option is included during the upload.
+The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will scaled to fit. FRAMED also supports landscape videos and this option is included during the upload.
 
 ### ■ Frame Rate
 
