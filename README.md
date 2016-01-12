@@ -342,7 +342,9 @@ SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|S
 
 • Export your sketch from Processing as a 32-bit Windows Application.
 
-• Enable full screen
+• Enable full screen (run in Presentation Mode)
+
+• Once exported, do not rename your main .exe file and make sure that main .jar file in the /lib folder has the same name and your .exe file in the root.
 
 • Please submit all files in one folder .zip file with a .exe in the root (no subfolders except for data and other related sketch files). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
