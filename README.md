@@ -52,6 +52,8 @@ It is important that before you upload your files they are correctly stored and 
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
+Current maximum upload file size (.zip archive) is: 500MB. 
+
 ### ■ Supported artwork file formats
 
 - **EXE** - self contained .exe apps, Flash, openFrameworks, MaxMSP
@@ -142,7 +144,7 @@ For artists who work with the video media, our system will package and release t
 
 ### ■ Resolution
 
-The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will scaled to fit. FRAMED also supports landscape videos and this option is included during the upload. The data rate that works succesfully is around 100Mbit/s. Please note we had issues with artworks that were over 150Mbit/s.
+The artwork will be displayed at W1080 * H1920 Full HD format. Any work created at a lower resolution will scaled to fit. FRAMED also supports landscape videos and this option is included during the upload. The data rate that works succesfully is around 100Mbit/s. Please note we had issues with artworks that were over 150Mbit/s. Refer to general notes about maximum file size upload.
 
 ### ■ Frame Rate
 
@@ -460,3 +462,5 @@ FRAMED devices, offered in 24”, 40” and 55” sizes make a great exhibition 
 For public and semi-public Wi-Fi networks we advise using a dedicated WiFI network for FRAMED (or bridge) to ensure its continuous and reliable connection to the internet.
 
 • More information to be added soon
+
+Latest update: 11 April 2016
