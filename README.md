@@ -426,6 +426,25 @@ All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLER
 
 # 3. FRAMED 2.0 Feed for Users
 
+• You can display any image you find online on your FRAMED device. 
+
+1. Find any image you like (high resolution preferred) or upload your own photos to any photo sharing website, icloud, flickr, google photos, dropbox.
+2. Find the photo, make sure its loaded at high resolution, and right click on it and get URL or "copy image address"
+3. Login to http://frm.fm and go to your "Feed"
+4. Click on "+" and paste the URL you copied from the photo (private or public).
+5. The photo will be added to your feed and you can click to display it on your framed.
+
+• How to add images you like that other framed users are sharing to your own feed.
+
+1. Find the image you like from other users’ profiles
+2. Click on the “+” located in the bottom right corner of the image.
+
+• How to remove items from your feed.
+
+1. Find the item you would like to remove.
+2. Click on the “-” located in the top right corner of the item.
+3. Item will no longer show in your feed.
+
 # 4. Artwork License Contract/Determining Price & Edition Copies
 
 • Before releasing and selling the artwork on FRAMED, Artwork License Contract will need to be read and signed by both parties. Please read the contract below thoroughly.
