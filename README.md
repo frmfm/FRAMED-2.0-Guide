@@ -426,7 +426,28 @@ All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLER
 
 # 3. FRAMED 2.0 Feed for Users
 
-• You can display any image you find online on your FRAMED device. 
+• How to setup your new FRAMED 2.0 device:
+
+1. Sign up for FRAMED account at https://frm.fm.
+2. Go to Device Settings at: https://frm.fm/settings/devices.
+2. Click on NEW SETUP.
+3. Give your device name and enter your WiFi name and password and click next to generate a QR code. 
+4. On your FRAMED device, with the wireless remote in hand, press the menu ( □ ) button and select Scan QR Code.
+5. Point the generated QR code to your FRAMED device (bottom where the camera is).
+6. You are ready to go.
+
+• How to reset your FRAMED 2.0’s WiFI connection:
+
+1. Sign in to your FRAMED account and go to Device Settings at: https://frm.fm/settings/devices.
+2. Click on EDIT SETTINGS.
+3. Re-enter your WiFi name and password and click next to generate a new QR code. 
+4. On your FRAMED device, with the wireless remote in hand, press the menu ( □ ) button and select Scan QR Code.
+5. Point the newly generated QR code to your FRAMED device.
+6. Press the menu ( □ ) button once more to confirm. 
+
+• How to display images on FRAMED device
+
+You can display any image you find online on your FRAMED device. 
 
 1. Find any image you like (high resolution preferred) or upload your own photos to any photo sharing website, icloud, flickr, google photos, dropbox.
 2. Find the photo, make sure its loaded at high resolution, and right click on it and get URL or "copy image address"
