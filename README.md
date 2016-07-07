@@ -15,7 +15,7 @@
 	- 1-10. [MaxMSP Artworks](#1-10maxmsp-artworks)
 	- 1-11. [Web(Javascript) Artworks](#1-11webjavascript-artworks)
 2. [Artist/Artwork Information (Upload Form)](#2-artistartwork-information-upload-form)
-3. [FRAMED 2.0 Feed for Users](#3-framed-20-feed-for-users)
+3. [FRAMED 2.0 for Users](#3-framed-20-for-users)
 4. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
 5. [Release/Sales](#5-releasesales)
 6. [Guide for Organisations](#6-guide-for-organisations)
@@ -424,7 +424,7 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLERY, as well as through our official website. Please prepare and submit below information regarding the Artwork and the Artist. Please write in your own language; we will provide the necessary English/Japanese translation.
 
-# 3. FRAMED 2.0 Feed for Users
+# 3. FRAMED 2.0 for Users
 
 • How to setup your new FRAMED 2.0 device:
 
