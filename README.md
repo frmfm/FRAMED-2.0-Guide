@@ -284,11 +284,11 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 - Main file must be named "main.exe".
 
-- All other related files (/text/images/sound)
+- Export as 32bit application
 
-• Specify file locations as relative paths.
+- Specify file locations as relative paths.
 
-• Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
+- Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
 
 ### ■ Areas to Adjust for FRAMED
 
