@@ -311,12 +311,13 @@ Windows default display is 16:9 horizontal (landscape), which FRAMED rotates to 
 
 Make sure that any window control functions like SetFullscreen(), ofSetWindowShape() (including Windows API) are not called from the application.
 
-``ofSetupOpenGL(&window, 1080,1920, OF_WINDOW);
-HWND hwnd = WindowFromDC(wglGetCurrentDC());
-ChangeDisplaySettings(NULL, 0);
-SetWindowLong(hwnd, GWL_STYLE,WS_VISIBLE ^ WS_OVERLAPPEDWINDOW ^WS_TILEDWINDOW);
-SetWindowPos(hwnd, HWND_TOPMOST,0,1,1080,1920,SWP_NOZORDER);
-SetWindowPos(hwnd, HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE|SWP_FRAMECHANGED|SWP_NOZORDER);``
+``
+  //settings.setGLVersion(2, 1);  // Fixed pipeline
+    settings.setGLVersion(3, 2);  // Programmable pipeline
+    settings.width = 1080;
+    settings.height = 1920;
+    settings.windowMode = OF_FULLSCREEN;
+``
 
 • * We are currently not aware of any other special requirements, however we will continue to let release updates where possible.
 
