@@ -309,8 +309,6 @@ SetCurrentDirectoryA(cdir);``
 
 Windows default display is 16:9 horizontal (landscape), which FRAMED rotates to display as vertical (portrait) mode. As such, some adjustments are necessary to display OpenFrameworks at fullscreen. Please include the following code inside init main() in main.cpp.
 
-Make sure that any window control functions like SetFullscreen(), ofSetWindowShape() (including Windows API) are not called from the application.
-
 ``
   //settings.setGLVersion(2, 1);  // Fixed pipeline
     settings.setGLVersion(3, 2);  // Programmable pipeline
