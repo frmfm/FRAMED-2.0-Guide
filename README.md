@@ -288,26 +288,7 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 - Specify file locations as relative paths.
 
-- Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
-
-### ■ Areas to Adjust for FRAMED
-
-• Turn off console window
-
-``#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"")``
-
-• Resetting program path
-We’ve noticed instances where the current directory is changed when the program is called from the FRAMED Shell. Please include the following code inside init main() of main.cpp, so that the program resources such as images and movie files can be accessed.
-
-``char cdir[MAX_PATH], drive[MAX_PATH],dir  [MAX_PATH];
-GetModuleFileNameA( NULL, cdir, MAX_PATH );
-_splitpath(cdir,drive,dir,NULL,NULL);
-sprintf_s(cdir,"%s%s",drive,dir);
-SetCurrentDirectoryA(cdir);``
-
-• FRAMED FullScreen settings
-
-Windows default display is 16:9 horizontal (landscape), which FRAMED rotates to display as vertical (portrait) mode. As such, some adjustments are necessary to display OpenFrameworks at fullscreen. Please include the following code inside init main() in main.cpp.
+- Specify window size and full screen mode using these settings in main.cpp
 
 ``
   //settings.setGLVersion(2, 1);  // Fixed pipeline
