@@ -290,13 +290,13 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 - Specify window size and full screen mode using these settings in main.cpp
 
-``
-  //settings.setGLVersion(2, 1);  // Fixed pipeline
+
+`  //settings.setGLVersion(2, 1);  // Fixed pipeline
     settings.setGLVersion(3, 2);  // Programmable pipeline
     settings.width = 1080;
     settings.height = 1920;
-    settings.windowMode = OF_FULLSCREEN;
-``
+    settings.windowMode = OF_FULLSCREEN; `
+
 
 • * We are currently not aware of any other special requirements, however we will continue to let release updates where possible.
 
