@@ -50,6 +50,8 @@ Before the artwork is listed and released to the public, the Artwork licensing c
 
 It is important that before you upload your files they are correctly stored and named in the .zip. FRAMED platform requires all launch/main files to be in the root of the zip. Please read below about how to correctly name your files for each framework/file format. 
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/4DVss7Qa2Dg" frameborder="0" allowfullscreen></iframe>
+
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
 Current maximum upload file size (.zip archive) is: 500MB. 
