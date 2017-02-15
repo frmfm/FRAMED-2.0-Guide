@@ -505,4 +505,4 @@ For public and semi-public Wi-Fi networks we advise using a dedicated WiFI netwo
 
 • More information to be added soon
 
-Latest update: 26 July 2016
+Latest update: 15 Feb 2017
