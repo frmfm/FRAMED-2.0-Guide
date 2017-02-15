@@ -15,9 +15,9 @@
 	- 1-10. [MaxMSP Artworks](#1-10maxmsp-artworks)
 	- 1-11. [Web(Javascript) Artworks](#1-11webjavascript-artworks)
 2. [Artist/Artwork Information (Upload Form)](#2-artistartwork-information-upload-form)
-3. [FRAMED 2.0 for Users / FEED Features](#3-framed-20-for-users--feed-features)
-4. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
-5. [Release/Sales](#5-releasesales)
+3. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
+4. [Release/Sales](#5-releasesales)
+5. [FRAMED 2.0 for Users / FEED Features](#3-framed-20-for-users--feed-features)
 6. [Guide for Organisations](#6-guide-for-organisations)
 7. [Guide to Exhibiting with FRAMED](#7-guide-to-exhibiting-with-framed)
 	
@@ -406,7 +406,30 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLERY, as well as through our official website. Please prepare and submit below information regarding the Artwork and the Artist. Please write in your own language; we will provide the necessary English/Japanese translation.
 
-# 3. FRAMED 2.0 for Users / FEED Features
+# 3. Artwork License Contract/Determining Price & Edition Copies
+
+• Before releasing and selling the artwork on FRAMED, Artwork License Contract will need to be read and signed by both parties. Please read the contract below thoroughly.
+
+License Contract (JP)　License Contract (EN)
+
+
+### ■ DRM/Edition/Artwork Price
+
+• To make sure that the artwork retains its value, FRAMED uses DRM to protect each work. Artwork data will be encoded and stored on the FRAMED device itself. Also, information of the artwork owner will be registered on the database as collateral to secure ownership.
+
+• As per above, we use the concept of ‘editions (issued copies of the artwork)’ for each artwork released on FRAMED. Artists can, with discussion and consultation with our company, determine his/her own artwork price and editions.
+
+• However, at least during the beginning phases, we aim to create a healthy ecosystem for our FRAMED artwork market where “high quality content is released in limited numbers (editions) for a privileged price, compared to the current standards of digital content.” For this reason, we currently hold a benchmark of “1 artwork: 31,500 yen x 100 editions.” An artist should take this into account when thinking about his/her own artwork pricing/editions.
+
+# 4. Release/Sales
+
+As soon as the artwork is uploaded, the artwork will be tested and if all checked OK it listed and sold through the FRAMED GALLERY. Information will also be released through the FRAMED Website and News Release.
+
+When an artwork is sold, the artist will be notified through an email sent to the registered email address. Furthermore, up to date sales information and status is available for viewing at any time on our website. As per the license contract, proceeds will be distributed every 3 months.
+
+Further details will follow shortly, so please be sure to check back for updates.
+
+# 5. FRAMED 2.0 for Users / FEED Features
 
 ## 1. How to setup your new FRAMED 2.0 device:
 
@@ -467,29 +490,6 @@ You can display any image you find online on your FRAMED device.
 ## 8. How to rotate any feed item:
 
 Use this code at the end of your URL when adding the URL to feed: “&display_rotate=enable”. This will rotate the image or video you want to display in your feed.
-
-# 4. Artwork License Contract/Determining Price & Edition Copies
-
-• Before releasing and selling the artwork on FRAMED, Artwork License Contract will need to be read and signed by both parties. Please read the contract below thoroughly.
-
-License Contract (JP)　License Contract (EN)
-
-
-### ■ DRM/Edition/Artwork Price
-
-• To make sure that the artwork retains its value, FRAMED uses DRM to protect each work. Artwork data will be encoded and stored on the FRAMED device itself. Also, information of the artwork owner will be registered on the database as collateral to secure ownership.
-
-• As per above, we use the concept of ‘editions (issued copies of the artwork)’ for each artwork released on FRAMED. Artists can, with discussion and consultation with our company, determine his/her own artwork price and editions.
-
-• However, at least during the beginning phases, we aim to create a healthy ecosystem for our FRAMED artwork market where “high quality content is released in limited numbers (editions) for a privileged price, compared to the current standards of digital content.” For this reason, we currently hold a benchmark of “1 artwork: 31,500 yen x 100 editions.” An artist should take this into account when thinking about his/her own artwork pricing/editions.
-
-# 5. Release/Sales
-
-As soon as the artwork is uploaded, the artwork will be tested and if all checked OK it listed and sold through the FRAMED GALLERY. Information will also be released through the FRAMED Website and News Release.
-
-When an artwork is sold, the artist will be notified through an email sent to the registered email address. Furthermore, up to date sales information and status is available for viewing at any time on our website. As per the license contract, proceeds will be distributed every 3 months.
-
-Further details will follow shortly, so please be sure to check back for updates.
 
 # 6. Guide for Organisations
 
