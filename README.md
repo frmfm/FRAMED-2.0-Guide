@@ -15,9 +15,9 @@
 	- 1-10. [MaxMSP Artworks](#1-10maxmsp-artworks)
 	- 1-11. [Web(Javascript) Artworks](#1-11webjavascript-artworks)
 2. [Artist/Artwork Information (Upload Form)](#2-artistartwork-information-upload-form)
-3. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
-4. [Release/Sales](#5-releasesales)
-5. [FRAMED 2.0 for Users / FEED Features](#3-framed-20-for-users--feed-features)
+3. [Artwork License Contract/Determining Price & Edition Copies](#3-artwork-license-contractdetermining-price--edition-copies)
+4. [Release/Sales](#4-releasesales)
+5. [FRAMED 2.0 for Users / FEED Features](#5-framed-20-for-users--feed-features)
 6. [Guide for Organisations](#6-guide-for-organisations)
 7. [Guide to Exhibiting with FRAMED](#7-guide-to-exhibiting-with-framed)
 	
