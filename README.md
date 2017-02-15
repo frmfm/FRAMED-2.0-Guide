@@ -15,7 +15,7 @@
 	- 1-10. [MaxMSP Artworks](#1-10maxmsp-artworks)
 	- 1-11. [Web(Javascript) Artworks](#1-11webjavascript-artworks)
 2. [Artist/Artwork Information (Upload Form)](#2-artistartwork-information-upload-form)
-3. [FRAMED 2.0 for Users](#3-framed-20-for-users)
+3. [FRAMED 2.0 for Users / FEED Features](#3-framed-20-for-users--feed-features)
 4. [Artwork License Contract/Determining Price & Edition Copies](#4-artwork-license-contractdetermining-price--edition-copies)
 5. [Release/Sales](#5-releasesales)
 6. [Guide for Organisations](#6-guide-for-organisations)
@@ -427,7 +427,7 @@ All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLER
 5. Point the newly generated QR code to your FRAMED device.
 6. Press the menu ( □ ) button once more to confirm. 
 
-## 3. How to display images on FRAMED device
+## 3. How to display images on FRAMED device:
 
 You can display any image you find online on your FRAMED device. 
 
@@ -437,25 +437,25 @@ You can display any image you find online on your FRAMED device.
 4. Click on "+" and paste the URL you copied from the photo (private or public).
 5. The photo will be added to your feed and you can click to display it on your framed.
 
-## 4. How to add images you like that other framed users are sharing to your own feed.
+## 4. How to add images other framed users are sharing:
 
 1. Find the image you like from other users’ profiles
 2. Click on the “+” located in the bottom right corner of the image.
 
-## 5. How to remove items from your feed.
+## 5. How to remove items from your feed:
 
 1. Find the item you would like to remove.
 2. Click on the “-” located in the top right corner of the item.
 3. Item will no longer show in your feed.
 
-## 6. How to add Vimeo video to your feed.
+## 6. How to add Vimeo video to your feed:
 
 1. Find the video that you like on vimeo
 2. copy the URL
 3. Click on "+" and paste the URL you copied from the video (private or public).
 4. The video will be added to your feed and you can click to display it on your framed.
 
-## 7. How to add Youtube video to your feed.
+## 7. How to add Youtube video to your feed:
 
 1. Find the video that you like on Youtube
 2. Copy the code that comes after youtube.com/watch?v=XXXXXXXXX
@@ -464,7 +464,7 @@ You can display any image you find online on your FRAMED device.
 5. Add this new URL as a feed item (private or public).
 4. The video will be added to your feed and you can click to display it on your framed.
 
-## 8. How do I rotate any feed item?
+## 8. How to rotate any feed item:
 
 Use this code at the end of your URL when adding the URL to feed: “&display_rotate=enable”. This will rotate the image or video you want to display in your feed.
 
