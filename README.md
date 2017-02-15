@@ -406,9 +406,9 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLERY, as well as through our official website. Please prepare and submit below information regarding the Artwork and the Artist. Please write in your own language; we will provide the necessary English/Japanese translation.
 
-# 3. FRAMED 2.0 for Users
+# 3. FRAMED 2.0 for Users / FEED Features
 
-• How to setup your new FRAMED 2.0 device:
+## 1. How to setup your new FRAMED 2.0 device:
 
 1. Sign up for FRAMED account at https://frm.fm.
 2. Go to Device Settings at: https://frm.fm/settings/devices.
@@ -418,7 +418,7 @@ All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLER
 5. Point the generated QR code to your FRAMED device (bottom where the camera is).
 6. You are ready to go.
 
-• How to reset your FRAMED 2.0’s WiFI connection:
+## 2. How to reset your FRAMED 2.0’s WiFI connection:
 
 1. Sign in to your FRAMED account and go to Device Settings at: https://frm.fm/settings/devices.
 2. Click on EDIT SETTINGS.
@@ -427,7 +427,7 @@ All artworks sold on FRAMED will be released on the artwork store, FRAMED GALLER
 5. Point the newly generated QR code to your FRAMED device.
 6. Press the menu ( □ ) button once more to confirm. 
 
-• How to display images on FRAMED device
+## 3. How to display images on FRAMED device
 
 You can display any image you find online on your FRAMED device. 
 
@@ -437,16 +437,36 @@ You can display any image you find online on your FRAMED device.
 4. Click on "+" and paste the URL you copied from the photo (private or public).
 5. The photo will be added to your feed and you can click to display it on your framed.
 
-• How to add images you like that other framed users are sharing to your own feed.
+## 4. How to add images you like that other framed users are sharing to your own feed.
 
 1. Find the image you like from other users’ profiles
 2. Click on the “+” located in the bottom right corner of the image.
 
-• How to remove items from your feed.
+## 5. How to remove items from your feed.
 
 1. Find the item you would like to remove.
 2. Click on the “-” located in the top right corner of the item.
 3. Item will no longer show in your feed.
+
+## 6. How to add Vimeo video to your feed.
+
+1. Find the video that you like on vimeo
+2. copy the URL
+3. Click on "+" and paste the URL you copied from the video (private or public).
+4. The video will be added to your feed and you can click to display it on your framed.
+
+## 7. How to add Youtube video to your feed.
+
+1. Find the video that you like on Youtube
+2. Copy the code that comes after youtube.com/watch?v=XXXXXXXXX
+3. Click on "+"
+4. Edit this URL inserting the above code instead of this one in the url: https://www.youtube.com/embed/XXXXXXXXX?rel=0&autoplay=1
+5. Add this new URL as a feed item (private or public).
+4. The video will be added to your feed and you can click to display it on your framed.
+
+## 8. How do I rotate any feed item?
+
+Use this code at the end of your URL when adding the URL to feed: “&display_rotate=enable”. This will rotate the image or video you want to display in your feed.
 
 # 4. Artwork License Contract/Determining Price & Edition Copies
 
