@@ -491,6 +491,8 @@ You can display any image you find online on your FRAMED device.
 
 Use this code at the end of your URL when adding the URL to feed: “&display_rotate=enable”. This will rotate the image or video you want to display in your feed.
 
+Example: http://player.thebookofshaders.com/?log=160602182204&display_rotate=enable
+
 # 6. Guide for Organisations
 
 As an organisation you are able to upload artworks on behalf of your artists.
