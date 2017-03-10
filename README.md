@@ -176,6 +176,8 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 This category is related to all other than the frameworks listed below. These include Windows specific applications such as those made using Unity, Unreal Engine, etc.
 
+This same procedure applies to artworks made using Javascript. They need to be wrapped into a Windows executable (.EXE) file to be uploaded to the platform and played on the FRAMED devices. Once example is this wrapper → [FRAMED-WebGL-ThreeJS-Framework](https://github.com/jocabola/FRAMED-WebGL-ThreeJS-Framework)
+
 ### ■ Resolution
 
 • The screen will display at W1080*H1920 pixels resolution. Please be aware of this resolution when developing your artwork.
@@ -507,4 +509,4 @@ For public and semi-public Wi-Fi networks we advise using a dedicated WiFI netwo
 
 • More information to be added soon
 
-Latest update: 15 Feb 2017
+Latest update: 10 March 2017
