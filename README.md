@@ -345,7 +345,7 @@ The screen will display at W1080*H1920 pixels resolution. Please be aware of thi
 
 • The root patch started by the Framed is: main.v4p
 
-• Target: vvvv45_beta33.7_x86 + addonpack + DX11 pack
+• Target: vvvv50_beta35.5_x86 + Addonpack + DX11 Pack
 
 The Framed will run your Renderer fullscreen by using the "/fullscreen 1" commandline parameter. The Framed (Devices) module (part of this template) takes care of this.
 
@@ -509,4 +509,4 @@ For public and semi-public Wi-Fi networks we advise using a dedicated WiFI netwo
 
 • More information to be added soon
 
-Latest update: 10 March 2017
+Latest update: 30 May 2017
