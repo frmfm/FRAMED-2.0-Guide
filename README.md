@@ -99,7 +99,7 @@ After all the information has been received and artwork has been tested, the art
 2. 40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg)
 3. 55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
 
-- Intel(R) Atom(TM) CPU Z3370 @ 1.46Ghz (spec)
+- Intel® Quad-Core Z3736（up to 2.4 GHz) – [More info](http://ark.intel.com/products/82115/Intel-Atom-Processor-Z3736F-2M-Cache-up-to-2_16-GHz)
 - Intel HD Graphics (integrated) / Intel HD Gen 7
 - Installed Memory (RAM) 2.00Gb
 - System Type: 32-bit Windows Embedded 8 Operating System, x64-based processor
