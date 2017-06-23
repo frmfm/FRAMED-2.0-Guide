@@ -24,7 +24,7 @@
 
 # 0. Introduction
 
-FRAMED offers a number of different ways to submit your artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art. 
+FRAMED offers a number of different ways to submit your or (if gallery) your artists’ artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art. 
 
 This document is designed to inform you on the basic technical specifications for creating an artwork, as well as the flow of listing and selling your content via FRAMED. When creating and selling artwork on FRAMED, please make sure to read this guide carefully.
 
@@ -34,7 +34,7 @@ Artist will be responsible for the actual development of the artwork. The artwor
 
 ## Step 2. Artwork/Artist Information
 
-When artwork testing/debug/optimization has been completed, your artwork will be submitted to the public and you will receive a notification stating that your artwork is now available on FRAMED.
+When artwork testing/debug/optimization has been completed, your artwork will be available for purchase and you will receive a notification stating that your artwork is now available on FRAMED.
 
 
 ## Step 3. Information about your Artwork.
@@ -44,7 +44,7 @@ Please describe your artwork not only how it was inspired but also how it works.
 
 ## Step 4. Artwork License Contract/Pricing & Editions
 
-Before the artwork is listed and released to the public, the Artwork licensing contract will be signed. Also, price of the artwork and the number of release issues/editions will be determined. These details are set by the artist during the upload process.
+Before the artwork is listed and released to the public, the Artwork licensing contract will be signed. Also, price of the artwork and the number of release issues/editions will be determined. These details are set by the artist or those representing him/her during the upload process.
 
 ## Step 5. Artwork Submission
 
@@ -80,7 +80,7 @@ For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDoffic
 
 ### ■ Saving Draft
 
-Drafts are for testing artworks you have uploaded. All artworks remain drafts until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish. 
+Drafts are for testing artworks you have uploaded. All artworks remain private until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish. 
 
 ## Step 6. Artwork Launch/Sale Begins
 
@@ -109,6 +109,7 @@ After all the information has been received and artwork has been tested, the art
 - Speakers (Intel SST Audio Device (WDM))
 - Microphone (Intel SST Audio Device (WDM))
 - HD Camera 720p
+- WiFi + Antenna
 
 • All artworks will be displayed at W1080*H1920 pixel in full screen.
 
@@ -174,9 +175,9 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 ## 1-4. Application(EXE) Artworks
 
-This category is related to all other than the frameworks listed below. These include Windows specific applications such as those made using Unity, Unreal Engine, etc.
+This category is related to all other than the frameworks listed below. These include Windows specific applications such as those made using Unity, Unreal Engine, custom .exe wrappers etc.
 
-This same procedure applies to artworks made using Javascript. They need to be wrapped into a Windows executable (.EXE) file to be uploaded to the platform and played on the FRAMED devices. Once example is this wrapper → [FRAMED-WebGL-ThreeJS-Framework](https://github.com/jocabola/FRAMED-WebGL-ThreeJS-Framework)
+This same procedure applies to artworks made using Javascript/HTML5. They need to be wrapped into a Windows executable (.EXE) file to be uploaded to the platform and played on the FRAMED devices. Once example is this wrapper → [FRAMED-WebGL-ThreeJS-Framework](https://github.com/jocabola/FRAMED-WebGL-ThreeJS-Framework)
 
 ### ■ Resolution
 
@@ -499,6 +500,12 @@ Example: http://player.thebookofshaders.com/?log=160602182204&display_rotate=ena
 
 As an organisation you are able to upload artworks on behalf of your artists.
 
+1. Please make sure you have “artist” account on FRAMED website
+2. You can specify artist name (different from account name) on artwork submission.
+3. You can submit artwork yourself or provide artist with account details for them to submit.
+4. You will be in charge of collecting earnings on behalf of artists
+5. Special editions, custom device deployment can be arranged. Please contact FRM for more information. 
+
 • More information to be added soon
 
 # 7. Guide to Exhibiting with FRAMED
@@ -509,4 +516,4 @@ For public and semi-public Wi-Fi networks we advise using a dedicated WiFI netwo
 
 • More information to be added soon
 
-Latest update: 30 May 2017
+Latest update: 20 June 2017
