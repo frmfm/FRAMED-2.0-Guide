@@ -4,7 +4,7 @@
 0. Introduction
 1. [Artwork Development](#1-artwork-development)
 	- 1-1. [FRAMED Summary](#1-1-framed-summary)
-	- 1-2. [GIF Artworks](#1-2-gif-artworks)
+	- 1-2. [GIF Artworks and Images (Photography) ](#1-2-gif-artworks-and-images-(Photography))
 	- 1-3. [Video Artworks](#1-3-video-artworks)
 	- 1-4. [Application(EXE) Artworks](#1-4-applicationexe-artworks)
 	- 1-5. [Flash(SWF) Artworks](#1-5-flashswf-artworks)
@@ -119,13 +119,13 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature. 
 
-## 1-2. GIF Artworks
+## 1-2. GIF Artworks and Images (Photography)
 
-For artists who work with GIF media:
+For artists who work with GIF/Image media:
 
 ### ■ Supported File Format
 
-GIF, Animated GIF
+GIF, Animated GIF, JPG, PNG, TIF (compressed)
 
 ### ■ Resolution
 
@@ -133,13 +133,13 @@ The artwork will be displayed at W1080 * H1920 Full HD format. Any work created 
 
 ### ■ Playback Format
 
-The basic format for playing back the GIF artwork is the “infinity loop.” 
+The basic format for playing back the image artwork is the “infinity loop.” 
+
+The playback uses alphabetical/number system and we recommend naming your files as 001_X.JPG, 002_X.JPG, 003_X.JPG etc. 
 
 ### ■ Artwork Submission
 
-• Please submit GIF file as .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
-
-• Your artwork can be named anything.gif
+• Please submit image file(s) as .zip file (in the root, no subfolders). [Watch this video.](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 ## 1-3. Video Artworks
 
