@@ -4,7 +4,7 @@
 0. Introduction
 1. [Artwork Development](#1-artwork-development)
 	- 1-1. [FRAMED Summary](#1-1-framed-summary)
-	- 1-2. [GIF Artworks and Images (Photography) ](#1-2-gif-artworks-and-images-(Photography))
+	- 1-2. [GIF Artworks and Images (Photography) ](#1-2-gif-artworks-and-images-photography)
 	- 1-3. [Video Artworks](#1-3-video-artworks)
 	- 1-4. [Application(EXE) Artworks](#1-4-applicationexe-artworks)
 	- 1-5. [Flash(SWF) Artworks](#1-5-flashswf-artworks)
