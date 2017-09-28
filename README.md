@@ -402,7 +402,7 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 ## 1-11.Web(Javascript) Artworks
 
-• More information to be added soon
+• See [Application(EXE) Artworks](#1-4-applicationexe-artworks).
 
 
 # 2. Artist/Artwork Information (Upload Form)
