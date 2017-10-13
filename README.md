@@ -20,7 +20,7 @@
 5. [FRAMED 2.0 for Users / FEED Features](#5-framed-20-for-users--feed-features)
 6. [Guide for Organisations](#6-guide-for-organisations)
 7. [Guide to Exhibiting with FRAMED](#7-guide-to-exhibiting-with-framed)
-8. Questions & Answers
+8. [Questions & Answers](#8-questions--answers)
 	
 
 # 0. Introduction
@@ -519,31 +519,37 @@ For public and semi-public Wi-Fi networks we advise using a dedicated WiFI netwo
 
 # 8. Questions & Answers
 
-1. Q: Can I upload artworks for my own viewing only?
+**Q: Can I upload artworks for my own viewing only?**
 
 A: Yes, upload artwork and save as DRAFT. As long as the artwork is DRAFT it is only available to you.
 
-2. Q: I uploaded a DRAFT but would like to delete it. How do I do this?
+
+**Q: I uploaded a DRAFT but would like to delete it. How do I do this?**
 
 A: All deletions are done by our admin team. If you would like your DRAFT deleted, please contact us at info@frm.fm or use [http://support.frm.fm](http://support.frm.fm).
 
-3. Q: How do I update my artwork?
+
+**Q: How do I update my artwork?**
 
 A: Go to artwork page, click edit, under the .ZIP section, remove existing zip. Upload a new .ZIP and click UPDATE. Your artwork will be updated for all collectors. 
 
-4. Q: I’ve set the price of my artwork but now changed my mind. Can I change it?
+
+**Q: I’ve set the price of my artwork but now changed my mind. Can I change it?**
 
 A: Once the price has been set, it can no longer be changed. Only admin team can make changes, under condition that artwork hasn’t already been purchased. If you would like to change it, and the condition above has been met, please contact us at info@frm.fm or use [http://support.frm.fm](http://support.frm.fm).
 
-5. Q: I use framework not listed in supported frameworks. Will you accept my artwork?
+
+**Q: I use framework not listed in supported frameworks. Will you accept my artwork?**
 
 A: We support a wide range of artwork formats under .EXE. This also includes frameworks that are not listed. If you are unsure, please contact us at info@frm.fm or use [http://support.frm.fm](http://support.frm.fm).
 
-6. Q: I’ve published my artwork, what happens now?
+
+**Q: I’ve published my artwork, what happens now?**
 
 A: Once you have clicked published, our team checks your artwork to ensure that it works as described. We also check screenshots, video and description. We may provide some suggestions if we feel it will help it to be better received by the collectors. The final decision is yours.
 
-7. Q: My artwork has been approved but it’s not visible in the gallery.
+
+**Q: My artwork has been approved but it’s not visible in the gallery.**
 
 A: We regularly review submitted artworks and select a few to feature. If you artwork is not featured now, it does not mean it won't be selected for feature in the future. Not all submitted artworks are featured in the gallery. 
 
