@@ -69,9 +69,9 @@ Current maximum upload file size (.zip archive) is: 500MB.
 
 Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
 
-[![Video Template](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Screenshots/framed_video_template.jpg)](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template.psd)
-
 If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account on Vimeo is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
+
+[![Video Template](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Screenshots/framed_video_template.jpg)](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template.psd)
 
 When preparing the video, we made some graphic material available that will help.
 
