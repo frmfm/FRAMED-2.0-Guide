@@ -69,13 +69,15 @@ Current maximum upload file size (.zip archive) is: 500MB.
 
 Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
 
+[![Video Template](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Screenshots/framed_video_template.jpg)](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template.psd)
+
 If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account on Vimeo is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
 
 When preparing the video, we made some graphic material available that will help.
 
-1. [FRAMED logos](https://www.dropbox.com/s/nys55hixgr6uuyx/FRAMED%20Logos.ai?dl=0)
-2. [PSD Template for your video](https://www.dropbox.com/s/3bsolt9jsowi646/framed_video_template.psd?dl=0)
-3. [Reflection image positioned over your artwork in the video](https://www.dropbox.com/s/vegtxututr2ajwo/framed_video_template_reflection.png?dl=0)
+1. [FRAMED logos](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/FRAMED%20Logos.ai)
+2. [PSD Template for your video](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template.psd)
+3. [Reflection image positioned over your artwork in the video](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template_reflection.png)
 
 For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
 
