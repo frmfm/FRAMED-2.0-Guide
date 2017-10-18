@@ -81,6 +81,10 @@ When preparing the video, we made some graphic material available that will help
 
 For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
 
+4. [Adobe After Effects Template](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/AfterEffects_Template.aep)
+
+For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
+
 ### ■ Saving Draft
 
 Drafts are for testing artworks you have uploaded. All artworks remain private until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish. 
