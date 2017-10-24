@@ -444,67 +444,7 @@ Further details will follow shortly, so please be sure to check back for updates
 
 # 5. FRAMED 2.0 for Users / FEED Features
 
-## 1. How to setup your new FRAMED 2.0 device:
-
-1. Sign up for FRAMED account at https://frm.fm.
-2. Go to Device Settings at: https://frm.fm/settings/devices.
-2. Click on NEW SETUP.
-3. Give your device name and enter your WiFi name and password and click next to generate a QR code. 
-4. On your FRAMED device, with the wireless remote in hand, press the menu ( □ ) button and select Scan QR Code.
-5. Point the generated QR code to your FRAMED device (bottom where the camera is).
-6. You are ready to go.
-
-## 2. How to reset your FRAMED 2.0’s WiFI connection:
-
-1. Sign in to your FRAMED account and go to Device Settings at: https://frm.fm/settings/devices.
-2. Click on EDIT SETTINGS.
-3. Re-enter your WiFi name and password and click next to generate a new QR code. 
-4. On your FRAMED device, with the wireless remote in hand, press the menu ( □ ) button and select Scan QR Code.
-5. Point the newly generated QR code to your FRAMED device.
-6. Press the menu ( □ ) button once more to confirm. 
-
-## 3. How to display images on FRAMED device:
-
-You can display any image you find online on your FRAMED device. 
-
-1. Find any image you like (high resolution preferred) or upload your own photos to any photo sharing website, icloud, flickr, google photos, dropbox.
-2. Find the photo, make sure its loaded at high resolution, and right click on it and get URL or "copy image address"
-3. Login to http://frm.fm and go to your "Feed"
-4. Click on "+" and paste the URL you copied from the photo (private or public).
-5. The photo will be added to your feed and you can click to display it on your framed.
-
-## 4. How to add images other framed users are sharing:
-
-1. Find the image you like from other users’ profiles
-2. Click on the “+” located in the bottom right corner of the image.
-
-## 5. How to remove items from your feed:
-
-1. Find the item you would like to remove.
-2. Click on the “-” located in the top right corner of the item.
-3. Item will no longer show in your feed.
-
-## 6. How to add Vimeo video to your feed:
-
-1. Find the video that you like on vimeo
-2. copy the URL
-3. Click on "+" and paste the URL you copied from the video (private or public).
-4. The video will be added to your feed and you can click to display it on your framed.
-
-## 7. How to add Youtube video to your feed:
-
-1. Find the video that you like on Youtube
-2. Copy the code that comes after youtube.com/watch?v=XXXXXXXXX
-3. Click on "+"
-4. Edit this URL inserting the above code instead of this one in the url: https://www.youtube.com/embed/XXXXXXXXX?rel=0&autoplay=1
-5. Add this new URL as a feed item (private or public).
-4. The video will be added to your feed and you can click to display it on your framed.
-
-## 8. How to rotate any feed item:
-
-Use this code at the end of your URL when adding the URL to feed: “&display_rotate=enable”. This will rotate the image or video you want to display in your feed.
-
-Example: http://player.thebookofshaders.com/?log=160602182204&display_rotate=enable
+See [http://support.frm.fm/english](http://support.frm.fm/english)
 
 # 6. Guide for Organisations
 
