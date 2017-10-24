@@ -55,7 +55,7 @@ It is important that before you upload your files they are correctly stored and 
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
-Current maximum upload file size (.zip archive) is: 500MB. 
+Current maximum upload file size (.zip archive) is: 1GB (1000 megabytes). 
 
 ### ■ Supported artwork file formats
 
@@ -556,4 +556,4 @@ A: Once you have clicked published, our team checks your artwork to ensure that 
 
 A: We regularly review submitted artworks and select a few to feature. If you artwork is not featured now, it does not mean it won't be selected for feature in the future. Not all submitted artworks are featured in the gallery. 
 
-Latest update: 13 October 2017
+Latest update: 24 October 2017
