@@ -207,6 +207,12 @@ This same procedure applies to artworks made using Javascript/HTML5. They need t
 
 • Do not include fullscreen commands (fscommand (“fullscreen”, “true”). This will be done automatically on the FRAMED device.
 
+### ■ Framework Specific Issues
+
+#### Unity Artworks
+
+• To make artwork play fullscreen without the toolbar, rename the app to ensure it reads from a new registry and set Screen.fullScreen=true in startup routine to enforce non-windowed state. [Read more here](http://answers.unity3d.com/questions/564788/standalone-player-in-windows-open-fullscreen-but-p.html).
+
 
 ## 1-5. Flash(SWF) Artworks
 
