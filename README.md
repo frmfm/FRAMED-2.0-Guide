@@ -78,7 +78,7 @@ When preparing the video, we made some graphic material available that will help
 1. [FRAMED logos](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/FRAMED%20Logos.ai)
 2. [PSD Template for your video](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template.psd)
 3. [Reflection image positioned over your artwork in the video](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/framed_video_template_reflection.png)
-4. [Adobe After Effects Template](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Resources/AfterEffects_Template.aep)
+4. [Adobe After Effects Template](https://github.com/frmfm/FRAMED-2.0-Guide/tree/master/Resources)
 
 For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDofficial/videos).
 
