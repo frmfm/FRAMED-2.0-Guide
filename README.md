@@ -21,11 +21,11 @@
 6. [Guide for Organisations](#6-guide-for-organisations)
 7. [Guide to Exhibiting with FRAMED](#7-guide-to-exhibiting-with-framed)
 8. [Questions & Answers](#8-questions--answers)
-	
+
 
 # 0. Introduction
 
-FRAMED offers a number of different ways to submit your or (if gallery) your artists’ artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art. 
+FRAMED offers a number of different ways to submit your or (if gallery) your artists’ artworks to the platform. From applications for Windows (.exe) to web pages, it has never been easier to share and collect digital art.
 
 This document is designed to inform you on the basic technical specifications for creating an artwork, as well as the flow of listing and selling your content via FRAMED. When creating and selling artwork on FRAMED, please make sure to read this guide carefully.
 
@@ -40,7 +40,7 @@ When artwork testing/debug/optimization has been completed, your artwork will be
 
 ## Step 3. Information about your Artwork.
 
-Please describe your artwork not only how it was inspired but also how it works. Whether it requires any interaction, uses camera, microphone, etc. 
+Please describe your artwork not only how it was inspired but also how it works. Whether it requires any interaction, uses camera, microphone, etc.
 
 
 ## Step 4. Artwork License Contract/Pricing & Editions
@@ -49,13 +49,13 @@ Before the artwork is listed and released to the public, the Artwork licensing c
 
 ## Step 5. Artwork Submission
 
-It is important that before you upload your files they are correctly stored and named in the .zip. FRAMED platform requires all launch/main files to be in the root of the zip. Please read below about how to correctly name your files for each framework/file format. 
+It is important that before you upload your files they are correctly stored and named in the .zip. FRAMED platform requires all launch/main files to be in the root of the zip. Please read below about how to correctly name your files for each framework/file format.
 
 [![Zipping Files](https://github.com/frmfm/FRAMED-2.0-Guide/blob/master/Screenshots/zipping_files.gif)](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be)
 
 [See this video for correctly zipping your files](https://www.youtube.com/watch?v=4DVss7Qa2Dg&feature=youtu.be).
 
-Current maximum upload file size (.zip archive) is: 1GB (1000 megabytes). 
+Current maximum upload file size (.zip archive) is: 1GB (1000 megabytes).
 
 ### ■ Supported artwork file formats
 
@@ -67,7 +67,7 @@ Current maximum upload file size (.zip archive) is: 1GB (1000 megabytes).
 
 ### ■ Video Preview
 
-Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs. 
+Only Youtube and Vimeo videos are currently supported for video previews. When adding a link in the field, please use the full URL to video, eg. "https://www.youtube.com/watch?v=rlcgrJdH_2M" not shortened URLs.
 
 If using Vimeo, in your account settings/videos please enable "Always play my videos in HD, when possible". If your account on Vimeo is not Pro, artwork preview videos will only play in standard definition (SD) on FRAMED website.
 
@@ -84,7 +84,7 @@ For examples, see [our page on YouTube](https://www.youtube.com/user/FRAMEDoffic
 
 ### ■ Saving Draft
 
-Drafts are for testing artworks you have uploaded. All artworks remain private until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish. 
+Drafts are for testing artworks you have uploaded. All artworks remain private until you decide to "Publish". While the artwork is Draft, you can view it on your FRAMED device just like any other artwork. The main difference is that it is not available to the public or for sale. When you are ready to make your artwork "live", press publish.
 
 ## Step 6. Artwork Launch/Sale Begins
 
@@ -99,7 +99,7 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED 2.0 Specification:
 
-1. 24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg) 
+1. 24-inch = 21” x 12.4”, 8.8lb. (533 x 317, 4kg)
 2. 40-inch = 38” x 21.6”, 26.5lb. (976 x 550, 12kg)
 3. 55-inch = 50” x 29”, 77lb. (1270 x 741, 35kg)
 
@@ -121,7 +121,7 @@ After all the information has been received and artwork has been tested, the art
 
 • As the device will be always connected to the internet, artists are also free to use the web as an additional input source for the artwork.
 
-• FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature. 
+• FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature.
 
 ## 1-2. GIF Artworks and Images (Photography)
 
@@ -137,9 +137,9 @@ The artwork will be displayed at W1080 * H1920 Full HD format. Any work created 
 
 ### ■ Playback Format
 
-The basic format for playing back the image artwork is the “infinity loop.” 
+The basic format for playing back the image artwork is the “infinity loop.”
 
-The playback uses alphabetical/number system and we recommend naming your files as 001_X.JPG, 002_X.JPG, 003_X.JPG etc. 
+The playback uses alphabetical/number system and we recommend naming your files as 001_X.JPG, 002_X.JPG, 003_X.JPG etc.
 
 ### ■ Artwork Submission
 
@@ -166,6 +166,18 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 • Time/Clock based (content changes according to the time of day)
 
 • Interactive playback (content changes according to environment, i.e. sound and/or human presence)
+
+### ■ Artwork Progress Save
+
+To save the progress of artwork when working with Processing, openFrameworks or any other framework, please ensure that a file "framedsave.txt" is stored in the root of your artwork folder – same location as .exe.
+
+• Use to save progress of artwork
+
+• Please capture the exit event or overwrite framedsave.txt whenever there are changes
+
+• Do not save framedsave.txt on exit since exit events are not executed on FRAMED.
+
+• Currently in development: Server side artwork progress save
 
 ### ■ Submission of Artwork
 
@@ -400,7 +412,7 @@ MAX 7.0 and above is supported since it eliminates need for seperate runtime and
 
 • Resolution of your artwork should be set as size(1080,1920);
 
-• FRAMED supports MAX 7.0 and above since it eliminates the need for a separate Max runtime. Any Max patch can be exported as a ’standalone’ application, which integrates the runtime and other necessary components. 
+• FRAMED supports MAX 7.0 and above since it eliminates the need for a separate Max runtime. Any Max patch can be exported as a ’standalone’ application, which integrates the runtime and other necessary components.
 
 • Main file must be named "main.exe".
 
@@ -454,13 +466,13 @@ As an organisation you are able to upload artworks on behalf of your artists.
 2. You can specify artist name (different from account name) on artwork submission.
 3. You can submit artwork yourself or provide artist with account details for them to submit.
 4. You will be in charge of collecting earnings on behalf of artists
-5. Special editions, custom device deployment can be arranged. Please contact FRM for more information. 
+5. Special editions, custom device deployment can be arranged. Please contact FRM for more information.
 
 • More information to be added soon
 
 # 7. Guide to Exhibiting with FRAMED
 
-FRAMED devices, offered in 24”, 40” and 55” sizes make a great exhibition device since they are self-contained, all-in-one PCs and require not additional hardware to display artworks. With integrated camera and microphone, they allow interaction with visitors and the online platform can serve conveniently to deploy artworks straight to the exhibition space. 
+FRAMED devices, offered in 24”, 40” and 55” sizes make a great exhibition device since they are self-contained, all-in-one PCs and require not additional hardware to display artworks. With integrated camera and microphone, they allow interaction with visitors and the online platform can serve conveniently to deploy artworks straight to the exhibition space.
 
 For public and semi-public Wi-Fi networks we advise using a dedicated WiFI network for FRAMED (or bridge) to ensure its continuous and reliable connection to the internet.
 
@@ -480,7 +492,7 @@ A: All deletions are done by our admin team. If you would like your DRAFT delete
 
 **Q: How do I update my artwork?**
 
-A: Go to artwork page, click edit, under the .ZIP section, remove existing zip. Upload a new .ZIP and click UPDATE. Your artwork will be updated for all collectors. 
+A: Go to artwork page, click edit, under the .ZIP section, remove existing zip. Upload a new .ZIP and click UPDATE. Your artwork will be updated for all collectors.
 
 
 **Q: I’ve set the price of my artwork but now changed my mind. Can I change it?**
@@ -500,6 +512,6 @@ A: Once you have clicked published, our team checks your artwork to ensure that 
 
 **Q: My artwork has been approved but it’s not visible in the gallery.**
 
-A: We regularly review submitted artworks and select a few to feature. If you artwork is not featured now, it does not mean it won't be selected for feature in the future. Not all submitted artworks are featured in the gallery. 
+A: We regularly review submitted artworks and select a few to feature. If you artwork is not featured now, it does not mean it won't be selected for feature in the future. Not all submitted artworks are featured in the gallery.
 
 Latest update: 24 October 2017
