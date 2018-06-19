@@ -123,6 +123,20 @@ After all the information has been received and artwork has been tested, the art
 
 • FRAMED also supports playback of artworks from the web but if you wish to  sell web based artworks you need to follow the official submission feature.
 
+## 1-1-1. General
+
+### ■ Artwork Progress Save
+
+To save the progress of artwork when working with Processing, openFrameworks or any other framework, please ensure that a file "framedsave.txt" is stored in the root of your artwork folder – same location as .exe.
+
+• Use to save progress of artwork
+
+• Please capture the exit event or overwrite framedsave.txt whenever there are changes
+
+• Do not save framedsave.txt on exit since exit events are not executed on FRAMED.
+
+• Currently in development: Server side artwork progress save
+
 ## 1-2. GIF Artworks and Images (Photography)
 
 For artists who work with GIF/Image media:
@@ -167,17 +181,6 @@ The basic format for playing back the artwork is the “infinity loop.” Howeve
 
 • Interactive playback (content changes according to environment, i.e. sound and/or human presence)
 
-### ■ Artwork Progress Save
-
-To save the progress of artwork when working with Processing, openFrameworks or any other framework, please ensure that a file "framedsave.txt" is stored in the root of your artwork folder – same location as .exe.
-
-• Use to save progress of artwork
-
-• Please capture the exit event or overwrite framedsave.txt whenever there are changes
-
-• Do not save framedsave.txt on exit since exit events are not executed on FRAMED.
-
-• Currently in development: Server side artwork progress save
 
 ### ■ Submission of Artwork
 
